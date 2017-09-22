@@ -19,6 +19,8 @@ namespace ConsoleApplication1
             b.DoSummat();
 
             Console.ReadLine();
+
+            // irrelevant comment, used to demonstrate Git
         }
     }
 
