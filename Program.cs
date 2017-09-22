@@ -5,6 +5,7 @@ namespace ConsoleApplication1
 {
     internal class Program
     {
+        // ReSharper disable once UnusedParameter.Local
         private static void Main(string[] args)
         {
             ISummat iSummatA = new A(); // pretend that this comes from the IoC
@@ -22,6 +23,7 @@ namespace ConsoleApplication1
 
             // irrelevant comment, used to demonstrate Git
             // a 2nd irrelevant comment, used to demonstrate Git's checkout command
+            // as 3rd irrelevant comment, used to exercise local & remote 'master' branches
         }
     }
 
