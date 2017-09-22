@@ -22,6 +22,7 @@ namespace ConsoleApplication1
 
             // irrelevant comment, used to demonstrate Git
             // a 2nd irrelevant comment, used to demonstrate Git's checkout command
+            // just got the remote repo working properly
         }
     }
 
