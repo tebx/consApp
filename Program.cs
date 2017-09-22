@@ -21,6 +21,7 @@ namespace ConsoleApplication1
             Console.ReadLine();
 
             // irrelevant comment, used to demonstrate Git
+            // a 2nd irrelevant comment, used to demonstrate Git's checkout command
         }
     }
 
